@@ -4,6 +4,6 @@ Gender
 Occasion
 Interests
 Relationship of the gift giver with the receiver.
-As of now, the gift suggestions consist of the list of 66 products. The products range from fashion accessories, clothing, and electronic gadgets to cookware and home appliances suggested according to the data entered by the user.
+This repository contains the flutter UI for this application
 
 
